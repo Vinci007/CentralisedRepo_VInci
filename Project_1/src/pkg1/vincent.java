@@ -13,9 +13,9 @@ public class vincent
 		}
 public int sub(int i, int j) //non void method for sub
 {
-	int k;
-	k=i-j;
-	System.out.println("value is "+k);
+	int h;
+	h=i-j;
+	System.out.println("value is "+h);
 	return h;
 }
 public void multi(int x, int y) //void method for multi
